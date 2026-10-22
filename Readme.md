@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.ibb.co.com/zH05T5rt/rutsi-HD-musicaldown-com-1792655518.webp" width="100%" alt="Header Banner">
+  <img src="https://i.ibb.co.com/zH05T5rt/rutsi-HD-musicaldown-com-1792655518.webp" width="25%" alt="Header Banner">
 </div>
 
 ---
