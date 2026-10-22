@@ -2,11 +2,11 @@
   <h1>Hi there 👋, I'm Delvin Junior Moto</h1>
   <h3>Informatics Engineering Student | Networking & Linux Enthusiast</h3>
   <img src="https://komarev.com/ghpvc/?username=DelvinJm&label=Profile%20Views&color=38bdf8&style=flat" alt="Visitor Count" />
-  ![Wife](https://img.shields.io/badge/My_Wife-Cyrene-be185d?style=for-the-badge)
 </div>
 
 <div align="center">
   <img src="https://i.ibb.co.com/zH05T5rt/rutsi-HD-musicaldown-com-1792655518.webp" width="25%" alt="Header Banner">
+  <img src=(https://img.shields.io/badge/My_Wife-Cyrene-be185d?style=for-the-badge)
 </div>
 
 ---
