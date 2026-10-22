@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src=""[C:\Users\Type-3060\Downloads\rutsi_._[HD]_musicaldown.com_1792655518.webp](https://i.ibb.co.com/zH05T5rt/rutsi-HD-musicaldown-com-1792655518.webp)"" width="100%" alt="Header Banner">
+  <img src="https://ibb.co.com/S79x4xPZ" width="100%" alt="Header Banner">
 </div>
 
 ---
