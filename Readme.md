@@ -35,5 +35,4 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="
+![Delvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=DelvinJM&show_icons=true&theme=transparent&hide_border=true)
