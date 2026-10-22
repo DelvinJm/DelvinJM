@@ -2,6 +2,7 @@
   <h1>Hi there 👋, I'm Delvin Junior Moto</h1>
   <h3>Informatics Engineering Student | Networking & Linux Enthusiast</h3>
   <img src="https://komarev.com/ghpvc/?username=DelvinJm&label=Profile%20Views&color=38bdf8&style=flat" alt="Visitor Count" />
+  ![Wife](https://img.shields.io/badge/My_Wife-Cyrene-be185d?style=for-the-badge)
 </div>
 
 <div align="center">
@@ -41,4 +42,4 @@
 ### 📊 GitHub Stats
 ![Delvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=DelvinJM&show_icons=true&theme=transparent&hide_border=true)
 
-![Wife](https://img.shields.io/badge/My_Wife-Cyrene-be185d?style=for-the-badge)
+
