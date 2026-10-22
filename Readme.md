@@ -4,7 +4,7 @@
 - 🔭 Saat ini sedang menempuh pendidikan **Teknik Informatika** di **Institut Teknologi Sains Bandung**.
 - 🌱 Fokus eksplorasi: **System Administration (Linux/Debian/Fedora), Jaringan (MikroTik), dan Local AI **.
 - 🎓 Alumni **SMKN 1 Karawang** (Teknik Komputer Jaringan).
-- ⚡ Fun fact: Suka ngoprek hardware, setelan audio PC, dan nge-game (Wuthering Waves / Assetto Corsa) di kala senggang.
+- ⚡ Fun fact: Suka ngoprek hardware, setelan audio PC, dan nge-game 
 
 ## 🌐 Let's Connect
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/itsvinndell)
