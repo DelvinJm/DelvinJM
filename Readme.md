@@ -32,4 +32,12 @@
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white)
 ![Network](https://img.shields.io/badge/Networking-05122A?style=for-the-badge&logo=cisco&logoColor=white)
 
-**Development & Scripting**<br
+**Development & Scripting**<br>
+![Windows Terminal](https://img.shields.io/badge/Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### 📊 GitHub Stats
+![Delvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=DelvinJM&show_icons=true&theme=transparent&hide_border=true)
